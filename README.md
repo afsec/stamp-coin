@@ -2,6 +2,11 @@
 
 ## Just a PoC (Don't use it)
 
+```sh
+$ nix develop
+$ just run
+
+```
 ## LICENSING
 
 1. General
